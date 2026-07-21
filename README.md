@@ -99,34 +99,20 @@
 </p>
 
 # 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=hackerskr76&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![](https://streak-stats.demolab.com/?user=hackerskr76&theme=tokyonight&hide_border=false)<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hackerskr76&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
+![](https://github-readme-stats.shion.dev/api?username=hackerskr76&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=hackerskr76&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hackerskr76&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=hackerskr76&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
+![](https://github-profile-trophy.vercel.app/?username=hackerskr76&theme=synthwave&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=hackerskr76&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
 
-![](https://github-contributor-stats.vercel.app/api?username=hackerskr76&limit=5&theme=gotham&combine_all_yearly_contributions=true)
-
-
+---
+[![](https://komarev.com/ghpvc/?username=hackerskr76&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-oa ye mera redme.md hai mere profile ka isko acha se bana de to orr 
-
