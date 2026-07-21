@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a B.Tech CSE  3rd year student at Brainware University, passionate about Artificial Intelligence and Machine Learning. Skilled in Python and Web Development. Actively participating in hackathon competitions to solve real-world problems and enhance teamwork skills. Open to internships and job opportunities where I can apply my knowledge and gain industry experience.
+I am a B.Tech CSE  3rd-year student at Brainware University, passionate about Artificial Intelligence and Machine Learning. Skilled in Python and Web Development. Actively participating in hackathon competitions to solve real-world problems and enhance teamwork skills. Open to internships and job opportunities where I can apply my knowledge and gain industry experience.
 
 
 ## 🌐 Socials:
