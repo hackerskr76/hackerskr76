@@ -26,23 +26,17 @@
 
 ### 💫 About Me
 
-<table border="0">
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>🎓 <b>Education:</b> B.Tech CSE Student at Brainware University, specializing in <b>Artificial Intelligence & Machine Learning</b>.</li>
-        <li>🚀 <b>Core Focus:</b> Building smart AI-driven applications and modern full-stack web platforms.</li>
-        <li>💡 <b>Problem Solver:</b> Actively participating in <b>hackathons</b> to build real-world software solutions and collaborate with dev teams.</li>
-        <li>💼 <b>Open To:</b> Internships, collaborative open-source projects, and full-stack/AI engineering roles.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <!-- Fixed Coding Animation GIF -->
-      <img src="https://raw.githubusercontent.com/AniketF/AniketF/main/assets/developer.gif" width="100%" alt="Coding Animation" />
-    </td>
-  </tr>
-</table>
+* 🎓 **Academic Background:** Pursuing **B.Tech CSE** at **Brainware University**, specializing in **Artificial Intelligence, Machine Learning, and Cybersecurity**.
+* 🛠️ **Full-Stack Proficiency:** Experienced in crafting modern, high-fidelity UI/UX using **React.js, Flask, SQLite, and TailwindCSS** with interactive data visualisations (Chart.js) and real-time features.
+* 🧩 **Algorithmic Thinking:** Strong foundation in **Discrete Mathematics**, Graph Theory, Logic, and Applied Problem Solving.
+* 🏆 **Hackathons & Collaboration:** Actively participating in national & university hackathons to build production-ready solutions and solve real-world problems under pressure.
+* 💼 **Looking For:** Open to **Full-Stack / AI-ML Engineering or any other Internships/Jobs**, collaborative open-source projects, and high-impact tech opportunities.
 
+---
+<!-- Animated Glowing Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-83f3-b32b2146d3b9.gif" width="100%" alt="Animated Divider" />
+</p>
 <!-- Animated Glowing Divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-83f3-b32b2146d3b9.gif" width="100%" alt="Animated Divider" />
@@ -106,15 +100,16 @@
 </p>
 
 # 📊 GitHub Stats:
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hackerskr76&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackerskr76&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=hackerskr76&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hackerskr76&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" width="49%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hackerskr76&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=hackerskr76&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
