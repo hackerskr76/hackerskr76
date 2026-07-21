@@ -37,6 +37,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
+      <!-- Fixed Coding Animation GIF -->
       <img src="https://raw.githubusercontent.com/AniketF/AniketF/main/assets/developer.gif" width="100%" alt="Coding Animation" />
     </td>
   </tr>
