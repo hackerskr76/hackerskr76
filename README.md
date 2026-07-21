@@ -41,7 +41,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-83f3-b32b2146d3b9.gif" width="100%" alt="Animated Divider" />
 </p>
-
 # 💻 Tech Stack & Skills
 
 #### 🐍 Programming Languages
