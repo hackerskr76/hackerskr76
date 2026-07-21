@@ -1,15 +1,6 @@
-<!-- Header Animation Banner -->
+<!-- Stable Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Sahil%20Raut&fontSize=70&fontColor=fff&animation=twinkling&desc=AI%20%26%20ML%20Enthusiast%20%7C%20Full-Stack%20Developer&descSize=20&descAlignY=75" width="100%" />
-</div>
-
-<!-- Dynamic Typing Effect Header -->
-<div align="center">
-  <h1>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;B.Tech+CSE+Student+%40+Brainware;Passionate+about+AI%2FML+%26+Web+Dev;Building+Solutions+%26+Hackathon+Lover!" alt="Typing SVG" />
-    </a>
-  </h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&height=100&lines=Hi+%F0%9F%90%8B,+I'm+Sahil+Raut;AI+%26+ML+Enthusiast;Full-Stack+Web+Developer;Hackathon+Participant!" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -18,16 +9,7 @@
 
 ## 💫 About Me
 
-<table border="0">
-  <tr>
-    <td width="60%">
-      I am a <b>B.Tech CSE student at Brainware University</b>, passionate about <b>Artificial Intelligence</b> and <b>Machine Learning</b>. Skilled in Python and Web Development. Actively participating in hackathon competitions to solve real-world problems and enhance teamwork skills. Open to internships and job opportunities where I can apply my knowledge and gain industry experience.
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUGGAC3P4FkyNdPx/giphy.gif" width="100%" alt="Coding Animation" />
-    </td>
-  </tr>
-</table>
+I am a **B.Tech CSE student at Brainware University**, passionate about **Artificial Intelligence** and **Machine Learning**. Skilled in Python and Web Development. Actively participating in hackathon competitions to solve real-world problems and enhance teamwork skills. Open to internships and job opportunities where I can apply my knowledge and gain industry experience.
 
 ---
 
@@ -54,7 +36,6 @@
 ## 💻 Complete Tech Stack & Tools:
 
 <p align="center">
-  <!-- All your existing badges cleanly organized in high-res badge format -->
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -141,41 +122,22 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce80-a425-11eb-83f3-b32b2146d3b9.gif" width="100%" alt="Divider Line" />
 </p>
 
-## 📊 Dynamic GitHub Analytics:
+## 📊 GitHub Analytics:
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=hackerskr76&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hackerskr76&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hackerskr76&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackerskr76&theme=tokyonight&layout=compact" width="48%" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=hackerskr76&theme=tokyonight&hide_border=false" width="97%" />
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies:
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hackerskr76&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
-
-<br/>
-
-## 🔝 Top Contributed Repositories:
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=hackerskr76&limit=5&theme=gotham&combine_all_yearly_contributions=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hackerskr76&theme=tokyonight" width="97%" alt="Streak Stats" />
 </div>
 
 <br/>
 
 ### ✍️ Random Dev Quote:
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-<!-- Animated Footer Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
