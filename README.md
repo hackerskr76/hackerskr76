@@ -101,20 +101,33 @@
 
 # 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=hackerskr76&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hackerskr76&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" width="49%" />
-</div>
+![](https://github-readme-stats.shion.dev/api?username=hackerskr76&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-<br/>
+![](https://streak-stats.demolab.com/?user=hackerskr76&theme=tokyonight&hide_border=false)<br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=hackerskr76&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</div>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hackerskr76&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
 
-### ✍️ Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=hackerskr76&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=hackerskr76&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+oa ye mera redme.md hai mere profile ka isko acha se bana de to orr 
+
