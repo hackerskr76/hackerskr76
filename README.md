@@ -13,9 +13,9 @@
     <a href="https://in.pinterest.com/sahilraut7069/_profile/"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest"></a>
     <a href="https://quora.com/profile/SahilRaut"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white" alt="Quora"></a>
     <a href="https://www.reddit.com/user/Sahilraut0961/"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit"></a>
-    <a href="https://stackoverflow.com/users/SahilRaut"><img src="https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
+    <a href="https://stackoverflow.com/users/32801672/SahilRaut"><img src="https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
     <a href="https://codepen.io/hackerskr76"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"></a>
-    <a href="https://mastodon.social/@SahilRaut"><img src="https://img.shields.io/badge/MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"></a>
+  </a>
   </p>
 </div>
 
